@@ -1,0 +1,5 @@
+```SQL
+SELECT SUM(新增確診數) AS 總確診數
+FROM world
+WHERE 日期 BETWEEN '2020-01-01' AND '2020-12-31';
+```
