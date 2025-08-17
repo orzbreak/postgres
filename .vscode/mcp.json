@@ -8,6 +8,14 @@
         "@modelcontextprotocol/server-postgres",
         "postgresql://postgres:raspberry@host.docker.internal:5432/postgres"
       ]
-    }
     },
+    "render_postgres": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-postgres",
+        "postgresql://test_sunday_user:gkerNWeuuHyzCtAGB9Ia0ygT28RZJVeB@dpg-d2bvs8re5dus738kd4u0-a.singapore-postgres.render.com/test_sunday?sslmode=require"
+      ]
+    }
+  },
 }
