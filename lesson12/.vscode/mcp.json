@@ -5,7 +5,7 @@
       "args": [
         "-y",
         "@modelcontextprotocol/server-postgres",
-        "postgresql://chillee_sunday_user:KRsZo4u7MMXmHLhPo36FN4PeRZBkkQt4@dpg-d2bvmo7diees73f5fn8g-a.singapore-postgres.render.com/chillee_sunday?sslmode=require"
+        "postgresql://test_sunday_user:gkerNWeuuHyzCtAGB9Ia0ygT28RZJVeB@dpg-d2bvs8re5dus738kd4u0-a.singapore-postgres.render.com/test_sunday?sslmode=require"
       ]
     }
   },

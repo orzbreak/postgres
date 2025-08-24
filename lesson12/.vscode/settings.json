@@ -1,0 +1,9 @@
+{
+    "chat.mcp.discovery.enabled": false,
+    "editor.fontSize": 16,
+    "chat.mcp.serverSampling": {
+        "lesson12/.vscode/mcp.json: render_postgres": {
+            "allowedModels": []
+        }
+    }
+}
